@@ -30,3 +30,6 @@ We established a number of special pricing rules for a small number of privilege
 - Gets a “5 for 4” deal on Standard Ads
 - Gets a discount on Featured Ads where the price drops to 309.99 RM per ad - Gets
 a discount on Premium Ads
+
+# DB Model illustration just for checkout
+!(checkout db example illustration.PNG)
