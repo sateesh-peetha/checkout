@@ -32,4 +32,4 @@ We established a number of special pricing rules for a small number of privilege
 a discount on Premium Ads
 
 # DB Model illustration just for checkout
-!(checkout db example illustration.PNG)
+!(https://github.com/sateesh-peetha/checkout/blob/main/checkout%20db%20example%20illustration.PNG)
