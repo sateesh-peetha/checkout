@@ -33,3 +33,9 @@ a discount on Premium Ads
 
 # DB Model illustration just for checkout
 ![checkout](https://github.com/sateesh-peetha/checkout/blob/main/checkout%20db%20example%20illustration.PNG?raw=true)
+
+# Running locally
+### prerequisite ( below list of softwares are needed to run locally )
+ * AWS SAM CLI - [Install the AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html).
+ * Node.js - [Install Node.js 14](https://nodejs.org/en/), including the npm package management tool.
+ * Docker - [Install Docker community edition](https://hub.docker.com/search/?type=edition&offering=community).
