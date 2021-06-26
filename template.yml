@@ -50,6 +50,8 @@ Resources:
           Properties:
             Path: /api/checkout
             Method: GET
+            Auth:
+              Authorizer: NONE
 Outputs:
   WebEndpoint:
     Description: "API Gateway endpoint URL for Prod stage"

@@ -24,54 +24,54 @@
             "id": "1",
             "type": "quantity-discount",
             "adcategory": "1",
-            "quanity": 3,
+            "quantity": 3,
             "discountedPrice": 269.99,
-            "discountedQuanity": 2,
+            "discountedQuantity": 2,
             "displayName": "“3 for 2” deal on Standard Ads"
         },
         {
             "id": "2",
             "type": "price-discount",
             "adcategory": "2",
-            "quanity": 1,
+            "quantity": 1,
             "discountedPrice": 299.99,
-            "discountedQuanity": 1,
+            "discountedQuantity": 1,
             "displayName": "Featured Ads where the price drops to 299.99 RM per ad"
         },
         {
             "id": "3",
             "type": "lot-discount",
             "adcategory": "3",
-            "quanity": 4,
+            "quantity": 4,
             "discountedPrice": 379.99,
-            "discountedQuanity": 4,
+            "discountedQuantity": 4,
             "displayName": "Premium Ads where 4 or more"
         },
         {
             "id": "4",
             "type": "quantity-discount",
             "adcategory": "1",
-            "quanity": 5,
+            "quantity": 5,
             "discountedPrice": 269.99,
-            "discountedQuanity": 4,
+            "discountedQuantity": 4,
             "displayName": "“5 for 4” deal on Standard Ads"
         },
         {
             "id": "5",
             "type": "price-discount",
             "adcategory": "2",
-            "quanity": 1,
+            "quantity": 1,
             "discountedPrice": 309.99,
-            "discountedQuanity": 1,
+            "discountedQuantity": 1,
             "displayName": "Featured Ads where the price drops to 309.99 RM per ad"
         },
         {
             "id": "6",
             "type": "lot-discount",
             "adcategory": "3",
-            "quanity": 3,
+            "quantity": 3,
             "discountedPrice": 389.99,
-            "discountedQuanity": 1,
+            "discountedQuantity": 1,
             "displayName": "Premium Ads when 3 or more"
         }
     ],
@@ -102,19 +102,49 @@
             "id" : "1111",
             "customerid" : "66",
             "adcategory" : "1",
-            "quanity" : 1
+            "quantity" : 1
         },
         {
             "id" : "1112",
             "customerid" : "66",
             "adcategory" : "2",
-            "quanity" : 1
+            "quantity" : 1
         },
         {
             "id" : "1113",
             "customerid" : "66",
             "adcategory" : "3",
-            "quanity" : 1
+            "quantity" : 1
+        },
+        {
+            "id" : "1114",
+            "customerid" : "1",
+            "adcategory" : "1",
+            "quantity" : 3
+        },
+        {
+            "id" : "1115",
+            "customerid" : "1",
+            "adcategory" : "3",
+            "quantity" : 1
+        },
+        {
+            "id" : "1116",
+            "customerid" : "2",
+            "adcategory" : "2",
+            "quantity" : 3
+        },
+        {
+            "id" : "1117",
+            "customerid" : "2",
+            "adcategory" : "3",
+            "quantity" : 1
+        },
+        {
+            "id" : "1119",
+            "customerid" : "3",
+            "adcategory" : "3",
+            "quantity" : 5
         }
     ]
 }
