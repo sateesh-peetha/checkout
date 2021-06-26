@@ -14,6 +14,10 @@ Globals:
     Environment:
       Variables:
         stage :  {Ref : StageName}
+        productTable : !Sub ${StageName}.product 
+        dealTable : !Sub ${StageName}.deal 
+        customerTable : !Sub ${StageName}.customer 
+        order : !Sub ${StageName}.order
 Parameters:
   StageName:  
     Type: String
