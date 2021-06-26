@@ -39,3 +39,18 @@ a discount on Premium Ads
  * AWS SAM CLI - [Install the AWS SAM CLI](https://docs.aws.amazon.com/serverless-application-model/latest/developerguide/serverless-sam-cli-install.html).
  * Node.js - [Install Node.js 14](https://nodejs.org/en/), including the npm package management tool.
  * Docker - [Install Docker community edition](https://hub.docker.com/search/?type=edition&offering=community).
+#### To start api server: run below command in powershell
+* sam local start-api --debug -l logs.txt
+
+#### Just invoke lambda function with different request:
+
+* sam local invoke checkout --event events/customer1.json
+* sam local invoke checkout --event events/uem-sunrise.json
+
+#### To deploy to aws servers:  
+sam deploy -g
+
+#### Just to test plain javascript using node
+* run the file node src/test.js
+
+ 
