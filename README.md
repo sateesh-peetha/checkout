@@ -1,5 +1,7 @@
 # checkout
-AWS Server less checkout system 
+AWS Server less checkout system to implement solution for below problem.
+### Tech Stack
+ AWS lambda, API gateway, and DynamoDB.
 
 # Problem Statement
 
